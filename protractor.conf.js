@@ -9,6 +9,7 @@ exports.config = {
     capabilities: {
         "browserName": "chrome",
         "chromeOptions": {
+            args: ['--headless', '--window-size=1920x1280']
             // "debuggerAddress": 'localhost:50161'
         }
     }
