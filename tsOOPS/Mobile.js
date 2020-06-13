@@ -1,21 +1,22 @@
-export class Mobile {
-
-    private modelname: string;
-    public modelNumber: number;
-    readonly imei: string = "asdasda154236";
+"use strict";
+exports.__esModule = true;
+exports.Mobile = void 0;
+var Mobile = /** @class */ (function () {
     // const imei: string = "asdasda154236"; // not possible
-    constructor(modelName: string, modelNumber: number) {
+    function Mobile(modelName, modelNumber) {
+        this.imei = "asdasda154236";
         this.modelNumber = modelNumber;
         this.modelname = modelName;
     }
-
-    makeCall(): void {
-        const imei: string = "asdasda154236";
+    Mobile.prototype.makeCall = function () {
+        var imei = "asdasda154236";
         // imei = "heu";
         console.log("hey calling");
         // return "hey";
-    }
-}
+    };
+    return Mobile;
+}());
+exports.Mobile = Mobile;
 // const myMobile = new Mobile("oneplus", 6);
 // // console.log(myMobile.modelname);
 // myMobile.makeCall();
