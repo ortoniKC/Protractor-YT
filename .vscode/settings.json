@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 28,
+    "debug.console.fontSize": 26,
+    "terminal.integrated.fontSize": 22,
+    "git.ignoreLimitWarning": true
+}

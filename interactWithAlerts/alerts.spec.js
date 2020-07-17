@@ -2,7 +2,7 @@ import { element, by, browser, $ } from "protractor";
 
 describe('Interact with Alert', () => {
     beforeAll(async () => {
-        await browser.get('https://letcode.in/alert')
+        await browser.get('https://play.letcode.in/alert')
     })
 
     fit('Simple Alert', async () => {

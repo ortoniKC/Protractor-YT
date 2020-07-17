@@ -21,8 +21,10 @@ describe("Learn element.all - MAP", () => {
                 }
             }
         );
-        console.log(await myTrainNumberMap);
-
+        console.log(myTrainNumberMap);
+    })
+    afterAll(async () => {
+        browser.quit();
     })
 
 });

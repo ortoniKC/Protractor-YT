@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "jasmine": "^3.5.0",
-    "protractor": "^6.0.0"
+    "protractor": "^7.0.0"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",

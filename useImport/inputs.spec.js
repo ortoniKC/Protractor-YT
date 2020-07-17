@@ -3,7 +3,7 @@ import { protractor } from "protractor/built/ptor";
 
 describe('Interac with inputs', () => {
     beforeAll(async () => {
-        browser.get("https://letcode.in/edit")
+        browser.get("https://play.letcode.in/edit")
         browser.manage().window().maximize();
     })
     // afterEach(() => {

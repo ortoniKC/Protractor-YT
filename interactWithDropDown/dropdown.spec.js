@@ -4,7 +4,7 @@ describe('Interact with dropdown', () => {
 
     xit('Select your fav fruit', async () => {
 
-        await browser.get("https://letcode.in/dropdown");
+        await browser.get("https://play.letcode.in/dropdown");
         // let select = await $("#Index");
         await element(by.cssContainingText('option', 'Apple')).click()
         await browser.sleep(5000)

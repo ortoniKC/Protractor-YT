@@ -3,12 +3,12 @@
 describe('Learn about Promises', () => {
 
     it('using async & await', async () => {
-        browser.get("http://letcode.in")
+        browser.get("https://play.letcode.in/")
         console.log(await browser.getTitle());
     })
 
     // it('launch browser', () => {
-    //     browser.get("http://letcode.in")
+    //     browser.get("https://play.letcode.in/")
     //         .then(() => {
     //             browser.getTitle()
     //                 .then(title => {

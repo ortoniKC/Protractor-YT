@@ -7,6 +7,7 @@ class FindCrickets {
     static getCricketsWord() {
         browser.waitForAngularEnabled(false);
         browser.get("https://www.google.com/");
+        element(by.binding())
         browser.switchTo().activeElement().sendKeys("cricket", protractor.Key.ENTER);
         let crickets = element.all(by.xpath("//*[contains(text(),'cricket') or contains(text(),'Cricket')]"))
         crickets.count().then(count => {

@@ -3,7 +3,7 @@ import { protractor } from "protractor/built/ptor";
 
 describe('Interact with inputs', () => {
     beforeAll(async () => {
-        await browser.get("https://letcode.in/edit")
+        await browser.get("https://play.letcode.in/edit")
         await browser.manage().window().maximize();
     });
     it('Enter first and last name', async () => {

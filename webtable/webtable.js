@@ -9,6 +9,12 @@ describe('lets learn WebTable', () => {
     it('table', async () => {
         let table = $("table#table tbody");
         let rows = table.$$("tr");
+        rows.each((ele, i) => {
+            let first = ele.$$("td").get(0);
+            first.getText().then(t => {
+                console.log(t)
+            })
+        })
         let count = await rows.count();
         console.log(count);
         expect(count).toBe(3);

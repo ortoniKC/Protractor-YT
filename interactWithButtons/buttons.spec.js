@@ -2,7 +2,8 @@ import { element, by, browser, $ } from "protractor";
 
 describe('Interact with buttons', () => {
     beforeAll(async () => {
-        await browser.get('https://letcode.in/button')
+        // console.log(await browser.getCapabilities());
+        await browser.get('https://play.letcode.in/button')
     })
     it('Protractor specific locator', async () => {
         let text = await element(by.buttonText('Goto Home')).getText()

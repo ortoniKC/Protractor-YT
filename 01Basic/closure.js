@@ -5,6 +5,7 @@ function getAge(){ // outer
         return ++age;
     }
 }
+
 let a = getAge()
 console.log(getAge()());
 console.log(getAge()());

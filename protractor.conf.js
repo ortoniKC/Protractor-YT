@@ -4,13 +4,13 @@ require("babel-register")({
 exports.config = {
     framework: 'jasmine',
     directConnect: true,
+    // seleniumAddress: "http://localhost:4444/wd/hub",
     specs: [''],
     SELENIUM_PROMISE_MANAGER: false,
     capabilities: {
         "browserName": "chrome",
-        "chromeOptions": {
-            args: ['--headless', '--window-size=1920x1280']
-            // "debuggerAddress": 'localhost:50161'
+        'chromeOptions': {
+            w3c: false
         }
     }
 }
