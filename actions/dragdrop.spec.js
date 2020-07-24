@@ -7,6 +7,7 @@ describe("Actions", () => {
     })
 
     it("Drag & Drop", async () => {
+        await browser.sleep(5000)
         let source = element(by.id("draggable"));
         let target = element(by.id("droppable"));
         await browser.actions().dragAndDrop(await source.getWebElement(),

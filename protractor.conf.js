@@ -10,7 +10,6 @@ exports.config = {
     capabilities: {
         "browserName": "chrome",
         'chromeOptions': {
-            w3c: false
         }
     }
 }

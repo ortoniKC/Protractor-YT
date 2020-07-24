@@ -1,5 +1,8 @@
-import { browser, element, by, $ } from "protractor";
-import { protractor } from "protractor/built/ptor";
+// import { browser, element, by, $ } from "protractor";
+
+const { browser } = require("protractor");
+
+// import { protractor } from "protractor/built/ptor";
 describe("Actions", () => {
 
     beforeAll(async () => {
@@ -7,7 +10,7 @@ describe("Actions", () => {
     })
 
     it("Context or Right Click", async () => {
-
+        await browser.sleep(5000)
         let btn = $("app-context-menu button");
         btn.click()
         await browser.actions()
@@ -18,5 +21,8 @@ describe("Actions", () => {
         let alert = browser.switchTo().alert();
         console.log(await (await alert).getText());
         (await alert).accept();
+    })
+    afterAll(async () => {
+        await browser.sleep(5000);
     })
 })
