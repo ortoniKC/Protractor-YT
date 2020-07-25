@@ -1,6 +1,6 @@
 import { element, by, browser, $ } from "protractor";
 
-describe('Interact with buttons' + Date.now(), () => {
+describe('Interact with buttons', () => {
 
     beforeAll(async () => {
         // console.log(await browser.getCapabilities());
