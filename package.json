@@ -9,9 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "allure-commandline": "^2.13.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-register": "^6.26.0",
-    "jasmine": "^3.5.0",
+    "jasmine": "^3.6.1",
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine-spec-reporter": "^5.0.2",
+    "jasminewd2": "^2.2.0",
     "protractor": "^7.0.0"
   },
   "repository": {

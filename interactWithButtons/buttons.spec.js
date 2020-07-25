@@ -1,6 +1,7 @@
 import { element, by, browser, $ } from "protractor";
 
-describe('Interact with buttons', () => {
+describe('Interact with buttons' + Date.now(), () => {
+
     beforeAll(async () => {
         // console.log(await browser.getCapabilities());
         await browser.get('https://play.letcode.in/button')
