@@ -1,3 +1,5 @@
+// To run test in sequence & parallel
+
 exports.config = {
     framework: 'jasmine',
     directConnect: true,
