@@ -29,11 +29,11 @@ describe('Interac with inputs', () => {
     it('Clear me', () => {
         driver.element(driver.by.id("clearMe"))
             .clear();
-    })
+    });
     it('Confirm that edit field is disabled', async () => {
         let isEditable = await driver.element(driver.by.id("noEdit"))
             .isEnabled()
         console.log(isEditable);
         expect(isEditable).toBe(false)
-    })
+    });
 })
