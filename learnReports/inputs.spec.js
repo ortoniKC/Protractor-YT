@@ -1,6 +1,6 @@
 const { browser, element, by } = require("protractor")
 
-describe('Interact with inputs', () => {
+describe('Interact with inputs' + Date.now(), () => {
 
     beforeAll(async () => {
         await browser.get("https://play.letcode.in/edit")

@@ -8,9 +8,15 @@ exports.config = {
     directConnect: true,
     specs: ['inputs.spec.js'],
     SELENIUM_PROMISE_MANAGER: false,
-    capabilities: {
-        "browserName": "chrome",
-    },
+    multiCapabilities: [
+        {
+            "browserName": "chrome"
+        }
+        ,
+        {
+            "browserName": "firefox"
+        }
+    ],
     onPrepare: function () {
         jasmine.getEnv().addReporter(
             new SpecReporter({
