@@ -4,7 +4,9 @@ describe('Interact with Alert', () => {
     beforeAll(async () => {
         await browser.get('https://play.letcode.in/alert')
     })
-
+    afterAll(async () => {
+        await browser.quit()
+    })
     it('Simple Alert', async () => {
         await element(by.buttonText("Simple")).click();
         // console.log(await browser.getTitle());
