@@ -173,10 +173,36 @@ Find all the code used in LetCode Youtube
 
 42. Login Page Positive & Negative - POM - #6
 
-[![page objects](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(41)-min.png)](https://youtu.be/m6htd6fDq3M)
+[![page objects](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(42)-min.png)](https://youtu.be/m6htd6fDq3M)
 
-- Expected Conditions - Alert - https://youtu.be/BV6SRxDSr3Q
-- Expected Conditions - title & clickable - https://youtu.be/jirhGHDYLA0
-- Non-angular automation - waitForAngularEnabled - https://youtu.be/Xjr5LDHiM5g
-- Sorting - Table -  https://youtu.be/46Fn5g_C1d8
-- Run in Edge chromium - https://youtu.be/EY9Rn403zhs
+43. Read data - JSON
+
+[![page objects](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(43)-min.png)](https://youtu.be/t2EV-Zi6wsA)
+
+44. Write & Read data  - JSON
+
+[![page objects](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(44)-min.png)](https://youtu.be/pjKmTTI0Ju0)
+
+45. Wait for alert - Expected condition - 1
+
+[![Wait for alert ](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(45)-min.png)](https://youtu.be/BV6SRxDSr3Q)
+
+46. Title & clickable - Expected Conditions - 2
+
+[![Title & clickable](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(46)-min.png)](https://youtu.be/jirhGHDYLA0)
+
+47. Visibility & Invisibility - Expected Conditions - 3
+
+[![Visibility & Invisibility](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(47)-min.png)](https://youtu.be/4niV_D6D9OY)
+
+48. Non-angular automation - waitForAngularEnabled 
+
+[![Non-angular automation](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(48)-min.png)](https://youtu.be/Xjr5LDHiM5g)
+
+49. Sorting - Table
+
+[![Sorting - Table](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(49)-min.png)](https://youtu.be/46Fn5g_C1d8)
+
+50. Run in Edge chromium 
+
+[![Run in Edge chromium](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(80)-min.png)](https://youtu.be/EY9Rn403zhs)
