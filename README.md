@@ -205,4 +205,4 @@ Find all the code used in LetCode Youtube
 
 50. Run in Edge chromium 
 
-[![Run in Edge chromium](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(80)-min.png)](https://youtu.be/EY9Rn403zhs)
+[![Run in Edge chromium](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(50)-min.png)](https://youtu.be/EY9Rn403zhs)
