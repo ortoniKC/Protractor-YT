@@ -1,9 +1,21 @@
-# Protractor-YT
-Find all the code used in LetCode Youtube
+# Protractor E2E Testing
+Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.
 
-# LetCode -YouTube
+## Testing practice site
 
-## Please follow the same sequence
+Tutorials can help you to learn, but you cannot become expert in it until you practice.
+Feel free to use our site [LetCode](https://letcode.in)
+
+## Support
+
+While learning it is very common to have doubts, to enhnance your learning I am ready to support you as much as I can do.
+1. Join our Gitter channel
+[Gitter](https://gitter.im/letcode-selenium/)
+2. Join our Facebook group
+[Facebook](https://www.facebook.com/groups/letcode)
+
+## Please follow the sequence
+
 1. Project Setup
 
 [![Project Setup](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/protractor%20(1)-min.png)](https://youtu.be/Dc05Uzm-MyE)
