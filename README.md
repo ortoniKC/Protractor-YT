@@ -222,9 +222,31 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 ## Recommended to watch in the following order 🌝
 
-51. [![Protractor Framework -1](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw1.jpg)](https://youtu.be/q6KakQQNaU0)
-52. [![Protractor Framework -2](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw2.png)](https://youtu.be/Tt2ET2FJemM)
-53. [![Protractor Framework -3](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw3.png)](https://youtu.be/9kvM3K3FpE8)
-54. [![Protractor Framework -4](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw4.png)](https://youtu.be/Jm13i7AZZOI)
-55. [![Protractor Framework -5](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw5.png)](https://youtu.be/2qfRX48phnE)
-56. [![Protractor Framework -6](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw6.png)](https://youtu.be/es_4daCJ_MM)
+- Grab the code from _ https://github.com/ortoniKC/Protractor-TypeScript-Framework _ for the following videos
+
+51. Protractor Framework -1
+    [![Protractor Framework -1](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw1.jpg)](https://youtu.be/q6KakQQNaU0)
+
+52. Protractor Framework -2
+    [![Protractor Framework -2](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw2.png)](https://youtu.be/Tt2ET2FJemM)
+
+53. Protractor Framework -3
+    [![Protractor Framework -3](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw3.png)](https://youtu.be/9kvM3K3FpE8)
+
+54. Protractor Framework -4
+    [![Protractor Framework -4](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw4.png)](https://youtu.be/Jm13i7AZZOI)
+
+55. Protractor Framework -5
+    [![Protractor Framework -5](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw5.png)](https://youtu.be/2qfRX48phnE)
+
+56. Protractor Framework -6
+    [![Protractor Framework -6](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw6.png)](https://youtu.be/es_4daCJ_MM)
+
+57. Conversion of POM JavaScript to TypeScript - Part 1 | LetCode
+    [![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw7.png)](https://youtu.be/RpqqvpFBQeo)
+
+58. Conversion of POM JavaScript to TypeScript - Part 2 | LetCode
+    [![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw8.png)](https://youtu.be/9abQ4WOxaHo)
+
+59. Fixing bugs! | LetCode
+    [![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw9.png)](https://youtu.be/9abQ4WOxaHo)
