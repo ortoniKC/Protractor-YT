@@ -250,3 +250,11 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 59. Fixing bugs! | LetCode
     [![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw9.png)](https://youtu.be/9abQ4WOxaHo)
+
+60. Run Test Script in Multiple Environments - Params
+
+[![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/60.png)](https://youtu.be/6sgA4s_jdUc)
+
+61. Angular Locators in Proractor
+
+[![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/61.png)](https://youtu.be/15fzmL53EE8c)
